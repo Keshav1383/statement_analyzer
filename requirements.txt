@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+pydantic
+pypdf2
+openpyxl
+pandas
+reportlab
